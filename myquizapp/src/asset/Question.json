@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "question": "HTML stands for?",
+    "options": ["HyperText Markup Language", "HyperText Mark Language", "HyperText Markup Learn", "Hyper Markup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Who developed React?",
+    "options": ["Google", "Facebook", "Microsoft", "Apple"],
+    "answer": "Facebook"
+  },
+  {
+    "id": 3,
+    "question": "Which HTML element is used for the largest heading?",
+    "options": ["<h1>", "<h2>", "<h3>", "<h4>"],
+    "answer": "<h1>"
+  },
+  {
+    "id": 4,
+    "question": "Which symbol is used to select classes in CSS?",
+    "options": ["#", "*", ".", "&"],
+    "answer": "."
+  }
+]
